@@ -2,8 +2,7 @@
 
 Made a simple Pong Clone mainly using documentation online. Tried and tested and broke the game multiple times before landing on a stable working model. Its not anything special just old school pong. Maybe in the future I may add more mechanics like power ups or random speed shifting etc.
 
-![Pong Gameplay](gameplay.mp4)
-<video src="gameplay.mp4" width="800" autoplay loop muted></video>
+<video src="./gameplay.mp4" width="800" autoplay loop muted></video>
 
 ## Features
 - **Finite State Machine (FSM):** Structured engine flow handling explicit transitions between `MENU`, `INITIALIZE` (1-second pre-round buffer) and `PLAYING` game loops.
